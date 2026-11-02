@@ -13,6 +13,8 @@ if len(sys.argv) > 2:
 import pymupdf
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+SONG_ID = "chicago"
+# 이어서 공연하는 순서. 곡별로 나누지 않고 구간 이름으로만 쓴다.
 SONGS = [
     ("all-that-jazz", "All That Jazz", "ATJ", "Jazz", "#A8262F", "#F0787E", "All That Jazz MR2.mp3",
      "젠 - 핀마이크, 듀이·아라레 - 스탠딩마이크"),
@@ -99,20 +101,26 @@ def read_cues(path):
         idx = CUE_SONG.get(o.get("A"), last)  # 곡명이 빠진 메모 행은 앞 곡에 붙인다
         last = idx
         cues.append({
-            "songId": SONGS[idx][0], "part": re.sub(r"\s*\n\s*", " ", o.get("B", "")), "type": o.get("C", ""),
+            "songId": SONG_ID, "section": SONGS[idx][1], "part": re.sub(r"\s*\n\s*", " ", o.get("B", "")), "type": o.get("C", ""),
             "mic": o.get("D", ""), "text": o.get("E", ""), "memo": o.get("F", ""), "setting": o.get("G", ""),
         })
     return cues
 
 
-def lyrics_for(song_id, cues):
-    out, prev = [], None
+def full_lyrics(cues):
+    out, prev, sec = [], None, None
     for c in cues:
-        if c["songId"] != song_id or not c["text"]:
+        if not c["text"]:
             continue
+        if c["section"] != sec:
+            sec = c["section"]
+            prev = None
+            if out:
+                out.append("")
+            out.append("[▸ %s]" % sec)
         part = c["part"].strip("[]") or c["type"]
         if part != prev:
-            if out:
+            if out and not out[-1].startswith("[▸"):
                 out.append("")
             out.append("[%s]" % part)
             prev = part
@@ -136,21 +144,19 @@ def main():
         shutil.copyfile(os.path.join(SRC, name), dst)
         return "assets/" + rel.replace(os.sep, "/"), size(dst)
 
-    songs, scenes, files = [], [], []
+    songs = [{"id": SONG_ID, "title": "Chicago", "short": "Chicago", "slug": SONG_ID, "color": "#A8262F", "colorDark": "#E3B341",
+              "micNote": "\n".join("%s · %s" % (x[2], x[7]) for x in SONGS), "lyrics": full_lyrics(cues)}]
+    scenes, files = [], []
+    for p in pages:  # PDF 쪽 순서 = 공연 순서, CUE 번호 = PDF 쪽 번호
+        scenes.append({
+            "id": "c%d" % p["page"], "songId": SONG_ID, "label": p["title"],
+            "note": "동선 PDF %d쪽" % p["page"], "positions": p["positions"],
+            "props": [{"id": "p%d" % p["page"], "type": "mic", "x": p["mic"][0], "y": p["mic"][1]}],
+        })
     for sid, title, short, prefix, c, cd, mr, mic in SONGS:
-        songs.append({"id": sid, "title": title, "short": short, "slug": sid, "color": c, "colorDark": cd,
-                      "micNote": mic, "lyrics": lyrics_for(sid, cues)})
-        for p in pages:
-            if p["title"].split()[0] != prefix:
-                continue
-            scenes.append({
-                "id": "c%d" % p["page"], "songId": sid, "label": p["title"].split(" ", 1)[1],
-                "note": "동선 PDF %d쪽" % p["page"], "positions": p["positions"],
-                "props": [{"id": "p%d" % p["page"], "type": "mic", "x": p["mic"][0], "y": p["mic"][1]}],
-            })
         if mr:
             path, sz = put(mr, "%s/mr.mp3" % sid)
-            files.append({"name": mr.rsplit(".", 1)[0], "path": path, "size": sz, "kind": "audio", "songId": sid, "group": "audio"})
+            files.append({"name": mr.rsplit(".", 1)[0], "path": path, "size": sz, "kind": "audio", "songId": SONG_ID, "group": "audio"})
     assert len(scenes) == len(pages) == 34, (len(scenes), [p["title"] for p in pages])
     pdf, pdf_sz = put("Chicago 동선.pdf", "chicago-blocking.pdf")
     xlsx, xlsx_sz = put("Chicago_musical_gala_cue_sheet.xlsx", "chicago-cue-sheet.xlsx")

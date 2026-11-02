@@ -93,51 +93,21 @@
  ],
  "songs": [
   {
-   "id": "all-that-jazz",
-   "title": "All That Jazz",
-   "short": "ATJ",
-   "slug": "all-that-jazz",
+   "id": "chicago",
+   "title": "Chicago",
+   "short": "Chicago",
+   "slug": "chicago",
    "color": "#A8262F",
-   "colorDark": "#F0787E",
-   "micNote": "젠 - 핀마이크, 듀이·아라레 - 스탠딩마이크",
-   "lyrics": "[젠]\nCome on baby / 다 함께 즐겨 봐\n빠바바 밤\nAnd all that jazz\n무릎을 세우고\n스타킹 벗고서\nAnd all that jazz\n차를 타고\n멋진 곳으로 가\n술은 차갑고\n음악은 뜨거워\n밤마다 화끈하게 즐길 수 있는 곳\nAnd all that\nJazz\n\n[듀이 (합창)]\nCome on baby 함께 즐겨 봐\n빰          (오~ 이 여자 흔들면서 춤추네)\nAnd all that jazz (And all that jazz)\n무릎을 세우고 스타킹 벗고서\n빰         (오 스타킹 벗겨져라 흔들어)\nAnd all that jazz (And all that jazz)\n차를 타고 멋진 곳으로 가\n빰    (오 거들은 풀어 버려)\n술은 차갑고 음악은 뜨거워\n빰         (오 엄마가 놀라겠네)\n밤마다 화끈하게 즐길 수 있는 곳\n         (딸의 춤을 / 보았 / 다면 / 딸의 춤을 보았 / 다면 / 딸의 춤을 / 보았다면)\n\n[다같이]\nAnd / all / that\n\n[아라레]\n난 누구의 여자도 아냐\n내 인생을 사랑해\nAnd all that jazz / that jazz"
-  },
-  {
-   "id": "cell-block-tango",
-   "title": "Cell Block Tango",
-   "short": "CBT",
-   "slug": "cell-block-tango",
-   "color": "#9A6F12",
    "colorDark": "#E3B341",
-   "micNote": "캐시 - 핀마이크, 랄다 - 핸드마이크, 에디 - 핸드마이크 or 스탠딩 마이크",
-   "lyrics": "[에디]\n네 이번 순서는 쿡 카운티 교도소에 수감중인 매력적인 살인범들의 공연입니다.\n셀블락 탱고!\n\n[디나]\nPop\n\n[캐시]\nSix\n\n[솜]\nSquish\n\n[아라레]\nUh uh\n\n[젠]\n시세로\n\n[랄다]\n립시츠\n\n[다같이]\n한박\n반박\n죽어도 싸지 죽어도 싸지\n스스로 무덤 판 거야\n당신도 그 놈 / 그놈 봤다면\n\n[랄다]\n나처럼 똑같이 했을 걸\n\n[캐시 (합창)]\n죽어도 싸지 (죽어도 싸지) / 죽어도 싸지 (죽어도 싸지) / 지들이 무덤 판 거야 (스스로 무덤 판 거야) /\n난 무죄라고 (꽃다운 나를) / 하지만 내가 (짓밟았으니) / 죽였다 해도 난 죄 없어\n\n[여자]\n개같은 놈놈놈놈놈x2\n죽어도 싸지 (죽어도 싸지)\n\n[캐시·아라레·슈·여림·디나 (젠·랄다·솜·듀이·디나)]\n죽어도 싸지 (죽어도 싸지)\n\n[캐시·아라레·슈·여림 (젠·랄다·솜·듀이·디나)]\n스스로 무덤 판 거야 (스스로 무덤 판 거야)\n꽃다운 나를 (꽃다운 나를)\n짓밟았으니 (짓밟았으니)\n\n[다같이]\n죽였다 해도 난 죄 없어\n\n[랄다]\n살인을 해도 난 무죄야"
-  },
-  {
-   "id": "reached-for-the-gun",
-   "title": "We Both Reached for the Gun",
-   "short": "Gun",
-   "slug": "reached-for-the-gun",
-   "color": "#3E7C8F",
-   "colorDark": "#6FB3C6",
-   "micNote": "랄다·에디·디나·동주 - 스탠딩마이크, 대니·젠 - 핀마이크",
-   "lyrics": "[다같이]\n웅성웅성\n\n[디나]\n신사숙녀 여러분! 하찮은 저를 이렇게 만나러 와주셔서 영광입니다. 여러분들은 제가 그 사람을 왜 쐈는지 궁금해하실 거예요.\n그 개새끼를요\n아 변호사님 또 늦네!!\n\n[동주]\n어머머 기자님들 벌써 소문 듣고 오신 거예요? 저 오늘 완전 데뷔~~ 해\n\n[대니]\n앉아 띨띨아\n\n[랄다]\n빌리 플린이 기자 회견 재즈를 노래합니다. 잘 보면 그의 입은 절대로 움직이지 않죠, 거의.\n\n[합창]\n어디 출신?\n\n[대니]\n미시시피\n\n[합창]\n부모님은?\n\n[대니]\n완전 부자\n\n[합창]\n어디 계셔?\n\n[대니]\n무덤 속에 / 허나 새로운 기회 찾아와 / 난 수녀원에 갔었죠\n\n[합창]\n계속해요\n\n[대니]\n그는 내게\n\n[합창]\n총을 들고?\n\n[대니]\n다가왔죠\n\n[합창]\n덤볐나요?\n\n[대니]\n사자처럼 / 그의 힘을 못 당해 / 그 총을 뺏으려 했네\n이해할 만해, 이해할 만해 / 아주 완벽히\n\n[젠]\n머가 완벽해 / 비켜~~\n\n[합창]\n지금 심정?\n\n[젠]\n겁이 나요\n\n[합창]\n죄책감은?\n\n[디나]\n장난해요?\n\n[젠 (합창)]\n술과 담배\n끊을게요\n함께 놀던\n남자도\n\n[젠]\n이런반성/하게됐죠/서로그총뻇으려할떄\n\n[에디]\n이해할 만해, 이해할 만해\n\n[에디·대니]\n아주 완벽히 이해할 만해\n\n[에디·대니·젠]\n당연할 만해, 당연할 만해\n\n[에디·대니·동주]\n그럴 수밖에 자신의 / 방어를 했을 뿐\n\n[대니 (합창)]\n그래, 그래, 그래, 서로 / 그래, 서로 그 총을 뺏으려 / 그 총, 그 총, 그 총, 그 총 / 그래, 서로 그 총을 뺏으려 했네\n(뭐라고요?)\n그 총, 그 총, 그 총, 그 총 / 그래, 서로 그 총을 뺏으려 했네\n(좀 더 크게!)\n그래, 그래, 그래, 서로 / 그래, 서로 그 총을 뺏으려 / 그 총, 그 총, 그 총, 그 총 / 그래, 서로 그 총을 뺏으려 했네\n(좋아요!)\n그래, 그래, 그래, 서로 / 그래, 서로 그 총을 뺏으려 / 그 총, 그 총, 그 총, 그 총 / 그래, 서로 그 총을 뺏으려 했네 / 그래, 그래, 그래, 서로 / 그래, 서로 그 총을 뺏으려 / 그 총, 그 총, 그 총, 그 총 / 그 총, 그 총, 그 총, 그 총 / 뺏으려\n\n[대니·동주·젠·캐시·아라레·에디 (합창)]\n했네 / 그 총, 그 총, 그 총, 그 총 (반복 4회) / 뺏으려 했네"
-  },
-  {
-   "id": "roxie",
-   "title": "Roxie",
-   "short": "락시",
-   "slug": "roxie",
-   "color": "#7A4FA3",
-   "colorDark": "#B79AE0",
-   "micNote": "여림 - 스탠딩마이크, 솜 - 핀마이크, 슈 - 스탠딩 핸드마이크",
-   "lyrics": "[여림]\n내일 신문 나오면 나 이제 셀럽인 거야? 어뜩해~~\n모두가 알게 될 이름 / 그래 바로 락시 / 행운이 따르는 이름 / 맞아 바로 락시\n곧 유명인사가 될 거야 / 모두 알아보는 그런 스타 / 내 전부를 알아보겠지 / 내 눈, 머리 가슴과 코\n음~~\n\n[솜 (합창)]\n끝내주는 쇼를 준비해야지 / 남자 무용수 한 명도 쓰고 / \n날 들어올려서 폼나게 잡아줄 / 남자 한 명 루룰룰루루 /\n까짓거 두 명으로 하자 균형이 더 잘 맞잖아~~\n요기 한 명 하이\n요기도 한 명 반가워\n멍청한 정비공의 아내는 안녕\n누구? / 그래\n살인도 예술이라네\n목 매달리지 않으면\n난 혜성처럼 데뷔해\n섹시 락시 하트\n\n[슈 (합창)]\n(모두가 줄을 설 거야 / 날 보려고 락시)\n싸인도 연습했지 / 행복하세요 락시\n(스캔들과 함께 일어서)\n유명한 여배우 제치고 (그래) / 극장엔 내 이름 걸 거야\n‘섹시 락시 하트’"
+   "micNote": "ATJ · 젠 - 핀마이크, 듀이·아라레 - 스탠딩마이크\nCBT · 캐시 - 핀마이크, 랄다 - 핸드마이크, 에디 - 핸드마이크 or 스탠딩 마이크\nGun · 랄다·에디·디나·동주 - 스탠딩마이크, 대니·젠 - 핀마이크\n락시 · 여림 - 스탠딩마이크, 솜 - 핀마이크, 슈 - 스탠딩 핸드마이크",
+   "lyrics": "[▸ All That Jazz]\n[젠]\nCome on baby / 다 함께 즐겨 봐\n빠바바 밤\nAnd all that jazz\n무릎을 세우고\n스타킹 벗고서\nAnd all that jazz\n차를 타고\n멋진 곳으로 가\n술은 차갑고\n음악은 뜨거워\n밤마다 화끈하게 즐길 수 있는 곳\nAnd all that\nJazz\n\n[듀이 (합창)]\nCome on baby 함께 즐겨 봐\n빰          (오~ 이 여자 흔들면서 춤추네)\nAnd all that jazz (And all that jazz)\n무릎을 세우고 스타킹 벗고서\n빰         (오 스타킹 벗겨져라 흔들어)\nAnd all that jazz (And all that jazz)\n차를 타고 멋진 곳으로 가\n빰    (오 거들은 풀어 버려)\n술은 차갑고 음악은 뜨거워\n빰         (오 엄마가 놀라겠네)\n밤마다 화끈하게 즐길 수 있는 곳\n         (딸의 춤을 / 보았 / 다면 / 딸의 춤을 보았 / 다면 / 딸의 춤을 / 보았다면)\n\n[다같이]\nAnd / all / that\n\n[아라레]\n난 누구의 여자도 아냐\n내 인생을 사랑해\nAnd all that jazz / that jazz\n\n[▸ Cell Block Tango]\n[에디]\n네 이번 순서는 쿡 카운티 교도소에 수감중인 매력적인 살인범들의 공연입니다.\n셀블락 탱고!\n\n[디나]\nPop\n\n[캐시]\nSix\n\n[솜]\nSquish\n\n[아라레]\nUh uh\n\n[젠]\n시세로\n\n[랄다]\n립시츠\n\n[다같이]\n한박\n반박\n죽어도 싸지 죽어도 싸지\n스스로 무덤 판 거야\n당신도 그 놈 / 그놈 봤다면\n\n[랄다]\n나처럼 똑같이 했을 걸\n\n[캐시 (합창)]\n죽어도 싸지 (죽어도 싸지) / 죽어도 싸지 (죽어도 싸지) / 지들이 무덤 판 거야 (스스로 무덤 판 거야) /\n난 무죄라고 (꽃다운 나를) / 하지만 내가 (짓밟았으니) / 죽였다 해도 난 죄 없어\n\n[여자]\n개같은 놈놈놈놈놈x2\n죽어도 싸지 (죽어도 싸지)\n\n[캐시·아라레·슈·여림·디나 (젠·랄다·솜·듀이·디나)]\n죽어도 싸지 (죽어도 싸지)\n\n[캐시·아라레·슈·여림 (젠·랄다·솜·듀이·디나)]\n스스로 무덤 판 거야 (스스로 무덤 판 거야)\n꽃다운 나를 (꽃다운 나를)\n짓밟았으니 (짓밟았으니)\n\n[다같이]\n죽였다 해도 난 죄 없어\n\n[랄다]\n살인을 해도 난 무죄야\n\n[▸ We Both Reached for the Gun]\n[다같이]\n웅성웅성\n\n[디나]\n신사숙녀 여러분! 하찮은 저를 이렇게 만나러 와주셔서 영광입니다. 여러분들은 제가 그 사람을 왜 쐈는지 궁금해하실 거예요.\n그 개새끼를요\n아 변호사님 또 늦네!!\n\n[동주]\n어머머 기자님들 벌써 소문 듣고 오신 거예요? 저 오늘 완전 데뷔~~ 해\n\n[대니]\n앉아 띨띨아\n\n[랄다]\n빌리 플린이 기자 회견 재즈를 노래합니다. 잘 보면 그의 입은 절대로 움직이지 않죠, 거의.\n\n[합창]\n어디 출신?\n\n[대니]\n미시시피\n\n[합창]\n부모님은?\n\n[대니]\n완전 부자\n\n[합창]\n어디 계셔?\n\n[대니]\n무덤 속에 / 허나 새로운 기회 찾아와 / 난 수녀원에 갔었죠\n\n[합창]\n계속해요\n\n[대니]\n그는 내게\n\n[합창]\n총을 들고?\n\n[대니]\n다가왔죠\n\n[합창]\n덤볐나요?\n\n[대니]\n사자처럼 / 그의 힘을 못 당해 / 그 총을 뺏으려 했네\n이해할 만해, 이해할 만해 / 아주 완벽히\n\n[젠]\n머가 완벽해 / 비켜~~\n\n[합창]\n지금 심정?\n\n[젠]\n겁이 나요\n\n[합창]\n죄책감은?\n\n[디나]\n장난해요?\n\n[젠 (합창)]\n술과 담배\n끊을게요\n함께 놀던\n남자도\n\n[젠]\n이런반성/하게됐죠/서로그총뻇으려할떄\n\n[에디]\n이해할 만해, 이해할 만해\n\n[에디·대니]\n아주 완벽히 이해할 만해\n\n[에디·대니·젠]\n당연할 만해, 당연할 만해\n\n[에디·대니·동주]\n그럴 수밖에 자신의 / 방어를 했을 뿐\n\n[대니 (합창)]\n그래, 그래, 그래, 서로 / 그래, 서로 그 총을 뺏으려 / 그 총, 그 총, 그 총, 그 총 / 그래, 서로 그 총을 뺏으려 했네\n(뭐라고요?)\n그 총, 그 총, 그 총, 그 총 / 그래, 서로 그 총을 뺏으려 했네\n(좀 더 크게!)\n그래, 그래, 그래, 서로 / 그래, 서로 그 총을 뺏으려 / 그 총, 그 총, 그 총, 그 총 / 그래, 서로 그 총을 뺏으려 했네\n(좋아요!)\n그래, 그래, 그래, 서로 / 그래, 서로 그 총을 뺏으려 / 그 총, 그 총, 그 총, 그 총 / 그래, 서로 그 총을 뺏으려 했네 / 그래, 그래, 그래, 서로 / 그래, 서로 그 총을 뺏으려 / 그 총, 그 총, 그 총, 그 총 / 그 총, 그 총, 그 총, 그 총 / 뺏으려\n\n[대니·동주·젠·캐시·아라레·에디 (합창)]\n했네 / 그 총, 그 총, 그 총, 그 총 (반복 4회) / 뺏으려 했네\n\n[▸ Roxie]\n[여림]\n내일 신문 나오면 나 이제 셀럽인 거야? 어뜩해~~\n모두가 알게 될 이름 / 그래 바로 락시 / 행운이 따르는 이름 / 맞아 바로 락시\n곧 유명인사가 될 거야 / 모두 알아보는 그런 스타 / 내 전부를 알아보겠지 / 내 눈, 머리 가슴과 코\n음~~\n\n[솜 (합창)]\n끝내주는 쇼를 준비해야지 / 남자 무용수 한 명도 쓰고 / \n날 들어올려서 폼나게 잡아줄 / 남자 한 명 루룰룰루루 /\n까짓거 두 명으로 하자 균형이 더 잘 맞잖아~~\n요기 한 명 하이\n요기도 한 명 반가워\n멍청한 정비공의 아내는 안녕\n누구? / 그래\n살인도 예술이라네\n목 매달리지 않으면\n난 혜성처럼 데뷔해\n섹시 락시 하트\n\n[슈 (합창)]\n(모두가 줄을 설 거야 / 날 보려고 락시)\n싸인도 연습했지 / 행복하세요 락시\n(스캔들과 함께 일어서)\n유명한 여배우 제치고 (그래) / 극장엔 내 이름 걸 거야\n‘섹시 락시 하트’"
   }
  ],
  "scenes": [
   {
    "id": "c1",
-   "songId": "all-that-jazz",
-   "label": "오프닝",
+   "songId": "chicago",
+   "label": "Jazz 오프닝",
    "note": "동선 PDF 1쪽",
    "positions": {
     "m1": [
@@ -200,8 +170,8 @@
   },
   {
    "id": "c2",
-   "songId": "all-that-jazz",
-   "label": "젠노래",
+   "songId": "chicago",
+   "label": "Jazz 젠노래",
    "note": "동선 PDF 2쪽",
    "positions": {
     "m1": [
@@ -264,8 +234,8 @@
   },
   {
    "id": "c3",
-   "songId": "all-that-jazz",
-   "label": "듀이노래",
+   "songId": "chicago",
+   "label": "Jazz 듀이노래",
    "note": "동선 PDF 3쪽",
    "positions": {
     "m1": [
@@ -328,8 +298,8 @@
   },
   {
    "id": "c4",
-   "songId": "all-that-jazz",
-   "label": "아라레 노래",
+   "songId": "chicago",
+   "label": "Jazz 아라레 노래",
    "note": "동선 PDF 4쪽",
    "positions": {
     "m1": [
@@ -392,8 +362,8 @@
   },
   {
    "id": "c5",
-   "songId": "all-that-jazz",
-   "label": "엔딩",
+   "songId": "chicago",
+   "label": "Jazz 엔딩",
    "note": "동선 PDF 5쪽",
    "positions": {
     "m1": [
@@ -456,8 +426,8 @@
   },
   {
    "id": "c6",
-   "songId": "cell-block-tango",
-   "label": "오프닝",
+   "songId": "chicago",
+   "label": "Cell 오프닝",
    "note": "동선 PDF 6쪽",
    "positions": {
     "m1": [
@@ -520,8 +490,8 @@
   },
   {
    "id": "c7",
-   "songId": "cell-block-tango",
-   "label": "에디대사",
+   "songId": "chicago",
+   "label": "Cell 에디대사",
    "note": "동선 PDF 7쪽",
    "positions": {
     "m1": [
@@ -584,8 +554,8 @@
   },
   {
    "id": "c8",
-   "songId": "cell-block-tango",
-   "label": "팝씻춤",
+   "songId": "chicago",
+   "label": "Cell 팝씻춤",
    "note": "동선 PDF 8쪽",
    "positions": {
     "m1": [
@@ -648,8 +618,8 @@
   },
   {
    "id": "c9",
-   "songId": "cell-block-tango",
-   "label": "합창1",
+   "songId": "chicago",
+   "label": "Cell 합창1",
    "note": "동선 PDF 9쪽",
    "positions": {
     "m1": [
@@ -712,8 +682,8 @@
   },
   {
    "id": "c10",
-   "songId": "cell-block-tango",
-   "label": "벨마 선창",
+   "songId": "chicago",
+   "label": "Cell 벨마 선창",
    "note": "동선 PDF 10쪽",
    "positions": {
     "m1": [
@@ -776,8 +746,8 @@
   },
   {
    "id": "c11",
-   "songId": "cell-block-tango",
-   "label": "벨마선창2",
+   "songId": "chicago",
+   "label": "Cell 벨마선창2",
    "note": "동선 PDF 11쪽",
    "positions": {
     "m1": [
@@ -840,8 +810,8 @@
   },
   {
    "id": "c12",
-   "songId": "cell-block-tango",
-   "label": "놈놈놈",
+   "songId": "chicago",
+   "label": "Cell 놈놈놈",
    "note": "동선 PDF 12쪽",
    "positions": {
     "m1": [
@@ -904,8 +874,8 @@
   },
   {
    "id": "c13",
-   "songId": "cell-block-tango",
-   "label": "발차기",
+   "songId": "chicago",
+   "label": "Cell 발차기",
    "note": "동선 PDF 13쪽",
    "positions": {
     "m1": [
@@ -968,8 +938,8 @@
   },
   {
    "id": "c14",
-   "songId": "cell-block-tango",
-   "label": "고난도춤",
+   "songId": "chicago",
+   "label": "Cell 고난도춤",
    "note": "동선 PDF 14쪽",
    "positions": {
     "m1": [
@@ -1032,8 +1002,8 @@
   },
   {
    "id": "c15",
-   "songId": "reached-for-the-gun",
-   "label": "오프닝",
+   "songId": "chicago",
+   "label": "Gun 오프닝",
    "note": "동선 PDF 15쪽",
    "positions": {
     "m1": [
@@ -1096,8 +1066,8 @@
   },
   {
    "id": "c16",
-   "songId": "reached-for-the-gun",
-   "label": "대니동주",
+   "songId": "chicago",
+   "label": "Gun 대니동주",
    "note": "동선 PDF 16쪽",
    "positions": {
     "m1": [
@@ -1160,8 +1130,8 @@
   },
   {
    "id": "c17",
-   "songId": "reached-for-the-gun",
-   "label": "젠디나",
+   "songId": "chicago",
+   "label": "Gun 젠디나",
    "note": "동선 PDF 17쪽",
    "positions": {
     "m1": [
@@ -1224,8 +1194,8 @@
   },
   {
    "id": "c18",
-   "songId": "reached-for-the-gun",
-   "label": "이해할만해",
+   "songId": "chicago",
+   "label": "Gun 이해할만해",
    "note": "동선 PDF 18쪽",
    "positions": {
     "m1": [
@@ -1288,8 +1258,8 @@
   },
   {
    "id": "c19",
-   "songId": "reached-for-the-gun",
-   "label": "이해할만해2",
+   "songId": "chicago",
+   "label": "Gun 이해할만해2",
    "note": "동선 PDF 19쪽",
    "positions": {
     "m1": [
@@ -1352,8 +1322,8 @@
   },
   {
    "id": "c20",
-   "songId": "reached-for-the-gun",
-   "label": "당연할만해",
+   "songId": "chicago",
+   "label": "Gun 당연할만해",
    "note": "동선 PDF 20쪽",
    "positions": {
     "m1": [
@@ -1416,8 +1386,8 @@
   },
   {
    "id": "c21",
-   "songId": "reached-for-the-gun",
-   "label": "그럴수밖에",
+   "songId": "chicago",
+   "label": "Gun 그럴수밖에",
    "note": "동선 PDF 21쪽",
    "positions": {
     "m1": [
@@ -1480,8 +1450,8 @@
   },
   {
    "id": "c22",
-   "songId": "reached-for-the-gun",
-   "label": "군무",
+   "songId": "chicago",
+   "label": "Gun 군무",
    "note": "동선 PDF 22쪽",
    "positions": {
     "m1": [
@@ -1544,8 +1514,8 @@
   },
   {
    "id": "c23",
-   "songId": "reached-for-the-gun",
-   "label": "뺏으려",
+   "songId": "chicago",
+   "label": "Gun 뺏으려",
    "note": "동선 PDF 23쪽",
    "positions": {
     "m1": [
@@ -1608,8 +1578,8 @@
   },
   {
    "id": "c24",
-   "songId": "reached-for-the-gun",
-   "label": "햇네",
+   "songId": "chicago",
+   "label": "Gun 햇네",
    "note": "동선 PDF 24쪽",
    "positions": {
     "m1": [
@@ -1672,8 +1642,8 @@
   },
   {
    "id": "c25",
-   "songId": "reached-for-the-gun",
-   "label": "엔딩",
+   "songId": "chicago",
+   "label": "Gun 엔딩",
    "note": "동선 PDF 25쪽",
    "positions": {
     "m1": [
@@ -1736,8 +1706,8 @@
   },
   {
    "id": "c26",
-   "songId": "roxie",
-   "label": "여림",
+   "songId": "chicago",
+   "label": "락시 여림",
    "note": "동선 PDF 26쪽",
    "positions": {
     "m1": [
@@ -1800,8 +1770,8 @@
   },
   {
    "id": "c27",
-   "songId": "roxie",
-   "label": "솜오프닝",
+   "songId": "chicago",
+   "label": "락시 솜오프닝",
    "note": "동선 PDF 27쪽",
    "positions": {
     "m1": [
@@ -1864,8 +1834,8 @@
   },
   {
    "id": "c28",
-   "songId": "roxie",
-   "label": "누구",
+   "songId": "chicago",
+   "label": "락시 누구",
    "note": "동선 PDF 28쪽",
    "positions": {
     "m1": [
@@ -1928,8 +1898,8 @@
   },
   {
    "id": "c29",
-   "songId": "roxie",
-   "label": "예술",
+   "songId": "chicago",
+   "label": "락시 예술",
    "note": "동선 PDF 29쪽",
    "positions": {
     "m1": [
@@ -1992,8 +1962,8 @@
   },
   {
    "id": "c30",
-   "songId": "roxie",
-   "label": "데뷔",
+   "songId": "chicago",
+   "label": "락시 데뷔",
    "note": "동선 PDF 30쪽",
    "positions": {
     "m1": [
@@ -2056,8 +2026,8 @@
   },
   {
    "id": "c31",
-   "songId": "roxie",
-   "label": "줄",
+   "songId": "chicago",
+   "label": "락시 줄",
    "note": "동선 PDF 31쪽",
    "positions": {
     "m1": [
@@ -2120,8 +2090,8 @@
   },
   {
    "id": "c32",
-   "songId": "roxie",
-   "label": "날보려고",
+   "songId": "chicago",
+   "label": "락시 날보려고",
    "note": "동선 PDF 32쪽",
    "positions": {
     "m1": [
@@ -2184,8 +2154,8 @@
   },
   {
    "id": "c33",
-   "songId": "roxie",
-   "label": "싸인",
+   "songId": "chicago",
+   "label": "락시 싸인",
    "note": "동선 PDF 33쪽",
    "positions": {
     "m1": [
@@ -2248,8 +2218,8 @@
   },
   {
    "id": "c34",
-   "songId": "roxie",
-   "label": "스캔들",
+   "songId": "chicago",
+   "label": "락시 스캔들",
    "note": "동선 PDF 34쪽",
    "positions": {
     "m1": [
@@ -2313,7 +2283,8 @@
  ],
  "cues": [
   {
-   "songId": "all-that-jazz",
+   "songId": "chicago",
+   "section": "All That Jazz",
    "part": "[젠]",
    "type": "솔로",
    "mic": "핀",
@@ -2322,7 +2293,8 @@
    "setting": "슈 : 스탠딩 3개 위치로"
   },
   {
-   "songId": "all-that-jazz",
+   "songId": "chicago",
+   "section": "All That Jazz",
    "part": "[젠]",
    "type": "솔로",
    "mic": "핀",
@@ -2331,7 +2303,8 @@
    "setting": ""
   },
   {
-   "songId": "all-that-jazz",
+   "songId": "chicago",
+   "section": "All That Jazz",
    "part": "[젠]",
    "type": "솔로",
    "mic": "핀",
@@ -2340,7 +2313,8 @@
    "setting": ""
   },
   {
-   "songId": "all-that-jazz",
+   "songId": "chicago",
+   "section": "All That Jazz",
    "part": "[젠]",
    "type": "솔로",
    "mic": "핀",
@@ -2349,7 +2323,8 @@
    "setting": ""
   },
   {
-   "songId": "all-that-jazz",
+   "songId": "chicago",
+   "section": "All That Jazz",
    "part": "[젠]",
    "type": "솔로",
    "mic": "핀",
@@ -2358,7 +2333,8 @@
    "setting": ""
   },
   {
-   "songId": "all-that-jazz",
+   "songId": "chicago",
+   "section": "All That Jazz",
    "part": "[젠]",
    "type": "솔로",
    "mic": "핀",
@@ -2367,7 +2343,8 @@
    "setting": ""
   },
   {
-   "songId": "all-that-jazz",
+   "songId": "chicago",
+   "section": "All That Jazz",
    "part": "[젠]",
    "type": "솔로",
    "mic": "핀",
@@ -2376,7 +2353,8 @@
    "setting": ""
   },
   {
-   "songId": "all-that-jazz",
+   "songId": "chicago",
+   "section": "All That Jazz",
    "part": "[젠]",
    "type": "솔로",
    "mic": "핀",
@@ -2385,7 +2363,8 @@
    "setting": ""
   },
   {
-   "songId": "all-that-jazz",
+   "songId": "chicago",
+   "section": "All That Jazz",
    "part": "[젠]",
    "type": "솔로",
    "mic": "핀",
@@ -2394,7 +2373,8 @@
    "setting": ""
   },
   {
-   "songId": "all-that-jazz",
+   "songId": "chicago",
+   "section": "All That Jazz",
    "part": "[젠]",
    "type": "솔로",
    "mic": "핀",
@@ -2403,7 +2383,8 @@
    "setting": ""
   },
   {
-   "songId": "all-that-jazz",
+   "songId": "chicago",
+   "section": "All That Jazz",
    "part": "[젠]",
    "type": "솔로",
    "mic": "핀",
@@ -2412,7 +2393,8 @@
    "setting": ""
   },
   {
-   "songId": "all-that-jazz",
+   "songId": "chicago",
+   "section": "All That Jazz",
    "part": "[젠]",
    "type": "솔로",
    "mic": "핀",
@@ -2421,7 +2403,8 @@
    "setting": ""
   },
   {
-   "songId": "all-that-jazz",
+   "songId": "chicago",
+   "section": "All That Jazz",
    "part": "[젠]",
    "type": "솔로",
    "mic": "핀",
@@ -2430,7 +2413,8 @@
    "setting": "슈 : jazz 할 때 스탠딩 듀이 자리로 가져옴"
   },
   {
-   "songId": "all-that-jazz",
+   "songId": "chicago",
+   "section": "All That Jazz",
    "part": "[듀이 (합창)]",
    "type": "합창",
    "mic": "스탠딩",
@@ -2439,7 +2423,8 @@
    "setting": ""
   },
   {
-   "songId": "all-that-jazz",
+   "songId": "chicago",
+   "section": "All That Jazz",
    "part": "[듀이 (합창)]",
    "type": "합창",
    "mic": "스탠딩",
@@ -2448,7 +2433,8 @@
    "setting": ""
   },
   {
-   "songId": "all-that-jazz",
+   "songId": "chicago",
+   "section": "All That Jazz",
    "part": "[듀이 (합창)]",
    "type": "합창",
    "mic": "스탠딩",
@@ -2457,7 +2443,8 @@
    "setting": ""
   },
   {
-   "songId": "all-that-jazz",
+   "songId": "chicago",
+   "section": "All That Jazz",
    "part": "[듀이 (합창)]",
    "type": "합창",
    "mic": "스탠딩",
@@ -2466,7 +2453,8 @@
    "setting": ""
   },
   {
-   "songId": "all-that-jazz",
+   "songId": "chicago",
+   "section": "All That Jazz",
    "part": "[듀이 (합창)]",
    "type": "합창",
    "mic": "스탠딩",
@@ -2475,7 +2463,8 @@
    "setting": ""
   },
   {
-   "songId": "all-that-jazz",
+   "songId": "chicago",
+   "section": "All That Jazz",
    "part": "[듀이 (합창)]",
    "type": "합창",
    "mic": "스탠딩",
@@ -2484,7 +2473,8 @@
    "setting": ""
   },
   {
-   "songId": "all-that-jazz",
+   "songId": "chicago",
+   "section": "All That Jazz",
    "part": "[듀이 (합창)]",
    "type": "합창",
    "mic": "스탠딩",
@@ -2493,7 +2483,8 @@
    "setting": ""
   },
   {
-   "songId": "all-that-jazz",
+   "songId": "chicago",
+   "section": "All That Jazz",
    "part": "[다같이]",
    "type": "합창",
    "mic": "스탠딩",
@@ -2502,7 +2493,8 @@
    "setting": ""
   },
   {
-   "songId": "all-that-jazz",
+   "songId": "chicago",
+   "section": "All That Jazz",
    "part": "[다같이]",
    "type": "합창",
    "mic": "스탠딩",
@@ -2511,7 +2503,8 @@
    "setting": ""
   },
   {
-   "songId": "all-that-jazz",
+   "songId": "chicago",
+   "section": "All That Jazz",
    "part": "[아라레]",
    "type": "솔로",
    "mic": "스탠딩",
@@ -2520,7 +2513,8 @@
    "setting": ""
   },
   {
-   "songId": "all-that-jazz",
+   "songId": "chicago",
+   "section": "All That Jazz",
    "part": "[아라레]",
    "type": "솔로",
    "mic": "스탠딩",
@@ -2529,7 +2523,8 @@
    "setting": ""
   },
   {
-   "songId": "all-that-jazz",
+   "songId": "chicago",
+   "section": "All That Jazz",
    "part": "[아라레]",
    "type": "솔로",
    "mic": "스탠딩",
@@ -2538,7 +2533,8 @@
    "setting": ""
   },
   {
-   "songId": "cell-block-tango",
+   "songId": "chicago",
+   "section": "Cell Block Tango",
    "part": "[에디]",
    "type": "대사",
    "mic": "스탠딩",
@@ -2547,7 +2543,8 @@
    "setting": "에디 : 대사 치면서 스탠딩 치움"
   },
   {
-   "songId": "cell-block-tango",
+   "songId": "chicago",
+   "section": "Cell Block Tango",
    "part": "[에디]",
    "type": "대사",
    "mic": "스탠딩",
@@ -2556,7 +2553,8 @@
    "setting": ""
   },
   {
-   "songId": "cell-block-tango",
+   "songId": "chicago",
+   "section": "Cell Block Tango",
    "part": "[디나]",
    "type": "솔로",
    "mic": "무선1",
@@ -2565,7 +2563,8 @@
    "setting": ""
   },
   {
-   "songId": "cell-block-tango",
+   "songId": "chicago",
+   "section": "Cell Block Tango",
    "part": "[캐시]",
    "type": "솔로",
    "mic": "핀",
@@ -2574,7 +2573,8 @@
    "setting": ""
   },
   {
-   "songId": "cell-block-tango",
+   "songId": "chicago",
+   "section": "Cell Block Tango",
    "part": "[솜]",
    "type": "솔로",
    "mic": "핀",
@@ -2583,7 +2583,8 @@
    "setting": ""
   },
   {
-   "songId": "cell-block-tango",
+   "songId": "chicago",
+   "section": "Cell Block Tango",
    "part": "[아라레]",
    "type": "솔로",
    "mic": "무선2",
@@ -2592,7 +2593,8 @@
    "setting": ""
   },
   {
-   "songId": "cell-block-tango",
+   "songId": "chicago",
+   "section": "Cell Block Tango",
    "part": "[젠]",
    "type": "솔로",
    "mic": "핀",
@@ -2601,7 +2603,8 @@
    "setting": ""
   },
   {
-   "songId": "cell-block-tango",
+   "songId": "chicago",
+   "section": "Cell Block Tango",
    "part": "[랄다]",
    "type": "솔로",
    "mic": "무선3",
@@ -2610,7 +2613,8 @@
    "setting": ""
   },
   {
-   "songId": "cell-block-tango",
+   "songId": "chicago",
+   "section": "Cell Block Tango",
    "part": "[다같이]",
    "type": "솔로",
    "mic": "",
@@ -2619,7 +2623,8 @@
    "setting": ""
   },
   {
-   "songId": "cell-block-tango",
+   "songId": "chicago",
+   "section": "Cell Block Tango",
    "part": "[다같이]",
    "type": "솔로",
    "mic": "",
@@ -2628,7 +2633,8 @@
    "setting": ""
   },
   {
-   "songId": "cell-block-tango",
+   "songId": "chicago",
+   "section": "Cell Block Tango",
    "part": "[다같이]",
    "type": "합창",
    "mic": "유선2 여림, 유선3 듀이",
@@ -2637,7 +2643,8 @@
    "setting": ""
   },
   {
-   "songId": "cell-block-tango",
+   "songId": "chicago",
+   "section": "Cell Block Tango",
    "part": "[다같이]",
    "type": "합창",
    "mic": "",
@@ -2646,7 +2653,8 @@
    "setting": ""
   },
   {
-   "songId": "cell-block-tango",
+   "songId": "chicago",
+   "section": "Cell Block Tango",
    "part": "[다같이]",
    "type": "합창",
    "mic": "",
@@ -2655,7 +2663,8 @@
    "setting": ""
   },
   {
-   "songId": "cell-block-tango",
+   "songId": "chicago",
+   "section": "Cell Block Tango",
    "part": "[랄다]",
    "type": "솔로",
    "mic": "",
@@ -2664,7 +2673,8 @@
    "setting": "노래 끝나고 듀이 여림 마이크 반납"
   },
   {
-   "songId": "cell-block-tango",
+   "songId": "chicago",
+   "section": "Cell Block Tango",
    "part": "[캐시 (합창)]",
    "type": "합창",
    "mic": "",
@@ -2673,7 +2683,8 @@
    "setting": ""
   },
   {
-   "songId": "cell-block-tango",
+   "songId": "chicago",
+   "section": "Cell Block Tango",
    "part": "[캐시 (합창)]",
    "type": "합창",
    "mic": "",
@@ -2682,7 +2693,8 @@
    "setting": ""
   },
   {
-   "songId": "cell-block-tango",
+   "songId": "chicago",
+   "section": "Cell Block Tango",
    "part": "여자",
    "type": "합창",
    "mic": "",
@@ -2691,7 +2703,8 @@
    "setting": ""
   },
   {
-   "songId": "cell-block-tango",
+   "songId": "chicago",
+   "section": "Cell Block Tango",
    "part": "여자",
    "type": "합창",
    "mic": "",
@@ -2700,7 +2713,8 @@
    "setting": ""
   },
   {
-   "songId": "cell-block-tango",
+   "songId": "chicago",
+   "section": "Cell Block Tango",
    "part": "[캐시·아라레·슈·여림·디나 (젠·랄다·솜·듀이·디나)]",
    "type": "합창",
    "mic": "",
@@ -2709,7 +2723,8 @@
    "setting": ""
   },
   {
-   "songId": "cell-block-tango",
+   "songId": "chicago",
+   "section": "Cell Block Tango",
    "part": "[캐시·아라레·슈·여림 (젠·랄다·솜·듀이·디나)]",
    "type": "합창",
    "mic": "",
@@ -2718,7 +2733,8 @@
    "setting": ""
   },
   {
-   "songId": "cell-block-tango",
+   "songId": "chicago",
+   "section": "Cell Block Tango",
    "part": "[캐시·아라레·슈·여림 (젠·랄다·솜·듀이·디나)]",
    "type": "합창",
    "mic": "",
@@ -2727,7 +2743,8 @@
    "setting": ""
   },
   {
-   "songId": "cell-block-tango",
+   "songId": "chicago",
+   "section": "Cell Block Tango",
    "part": "[캐시·아라레·슈·여림 (젠·랄다·솜·듀이·디나)]",
    "type": "합창",
    "mic": "",
@@ -2736,7 +2753,8 @@
    "setting": ""
   },
   {
-   "songId": "cell-block-tango",
+   "songId": "chicago",
+   "section": "Cell Block Tango",
    "part": "[다같이]",
    "type": "합창",
    "mic": "",
@@ -2745,7 +2763,8 @@
    "setting": ""
   },
   {
-   "songId": "cell-block-tango",
+   "songId": "chicago",
+   "section": "Cell Block Tango",
    "part": "[랄다]",
    "type": "솔로",
    "mic": "",
@@ -2754,7 +2773,8 @@
    "setting": ""
   },
   {
-   "songId": "reached-for-the-gun",
+   "songId": "chicago",
+   "section": "We Both Reached for the Gun",
    "part": "[다같이]",
    "type": "합창",
    "mic": "",
@@ -2763,7 +2783,8 @@
    "setting": ""
   },
   {
-   "songId": "reached-for-the-gun",
+   "songId": "chicago",
+   "section": "We Both Reached for the Gun",
    "part": "[디나]",
    "type": "대사",
    "mic": "",
@@ -2772,7 +2793,8 @@
    "setting": ""
   },
   {
-   "songId": "reached-for-the-gun",
+   "songId": "chicago",
+   "section": "We Both Reached for the Gun",
    "part": "[디나]",
    "type": "대사",
    "mic": "",
@@ -2781,7 +2803,8 @@
    "setting": ""
   },
   {
-   "songId": "reached-for-the-gun",
+   "songId": "chicago",
+   "section": "We Both Reached for the Gun",
    "part": "[디나]",
    "type": "대사",
    "mic": "",
@@ -2790,7 +2813,8 @@
    "setting": ""
   },
   {
-   "songId": "reached-for-the-gun",
+   "songId": "chicago",
+   "section": "We Both Reached for the Gun",
    "part": "[동주]",
    "type": "대사",
    "mic": "",
@@ -2799,7 +2823,8 @@
    "setting": ""
   },
   {
-   "songId": "reached-for-the-gun",
+   "songId": "chicago",
+   "section": "We Both Reached for the Gun",
    "part": "[대니]",
    "type": "대사",
    "mic": "",
@@ -2808,7 +2833,8 @@
    "setting": ""
   },
   {
-   "songId": "reached-for-the-gun",
+   "songId": "chicago",
+   "section": "We Both Reached for the Gun",
    "part": "[대니]",
    "type": "진행 큐",
    "mic": "",
@@ -2817,7 +2843,8 @@
    "setting": ""
   },
   {
-   "songId": "reached-for-the-gun",
+   "songId": "chicago",
+   "section": "We Both Reached for the Gun",
    "part": "[랄다]",
    "type": "대사",
    "mic": "",
@@ -2826,7 +2853,8 @@
    "setting": ""
   },
   {
-   "songId": "reached-for-the-gun",
+   "songId": "chicago",
+   "section": "We Both Reached for the Gun",
    "part": "[합창]",
    "type": "합창",
    "mic": "",
@@ -2835,7 +2863,8 @@
    "setting": "바깥"
   },
   {
-   "songId": "reached-for-the-gun",
+   "songId": "chicago",
+   "section": "We Both Reached for the Gun",
    "part": "[대니]",
    "type": "대사",
    "mic": "",
@@ -2844,7 +2873,8 @@
    "setting": "센터"
   },
   {
-   "songId": "reached-for-the-gun",
+   "songId": "chicago",
+   "section": "We Both Reached for the Gun",
    "part": "[합창]",
    "type": "합창",
    "mic": "",
@@ -2853,7 +2883,8 @@
    "setting": "안쪽"
   },
   {
-   "songId": "reached-for-the-gun",
+   "songId": "chicago",
+   "section": "We Both Reached for the Gun",
    "part": "[대니]",
    "type": "대사",
    "mic": "",
@@ -2862,7 +2893,8 @@
    "setting": "돈포즈 하면서 센터"
   },
   {
-   "songId": "reached-for-the-gun",
+   "songId": "chicago",
+   "section": "We Both Reached for the Gun",
    "part": "[합창]",
    "type": "합창",
    "mic": "",
@@ -2871,7 +2903,8 @@
    "setting": "오른쪾"
   },
   {
-   "songId": "reached-for-the-gun",
+   "songId": "chicago",
+   "section": "We Both Reached for the Gun",
    "part": "[대니]",
    "type": "대사",
    "mic": "",
@@ -2880,7 +2913,8 @@
    "setting": "손뽇으면서 숙임\n수녀원 - 십자가\n바깥에서 안"
   },
   {
-   "songId": "reached-for-the-gun",
+   "songId": "chicago",
+   "section": "We Both Reached for the Gun",
    "part": "[합창]",
    "type": "합창",
    "mic": "",
@@ -2889,7 +2923,8 @@
    "setting": "안쪽"
   },
   {
-   "songId": "reached-for-the-gun",
+   "songId": "chicago",
+   "section": "We Both Reached for the Gun",
    "part": "[대니]",
    "type": "대사",
    "mic": "",
@@ -2898,7 +2933,8 @@
    "setting": "손가락질 안 - 바깥"
   },
   {
-   "songId": "reached-for-the-gun",
+   "songId": "chicago",
+   "section": "We Both Reached for the Gun",
    "part": "[합창]",
    "type": "합창",
    "mic": "",
@@ -2907,7 +2943,8 @@
    "setting": ""
   },
   {
-   "songId": "reached-for-the-gun",
+   "songId": "chicago",
+   "section": "We Both Reached for the Gun",
    "part": "[대니]",
    "type": "대사",
    "mic": "",
@@ -2916,7 +2953,8 @@
    "setting": "손으로 막음"
   },
   {
-   "songId": "reached-for-the-gun",
+   "songId": "chicago",
+   "section": "We Both Reached for the Gun",
    "part": "[합창]",
    "type": "합창",
    "mic": "",
@@ -2925,7 +2963,8 @@
    "setting": ""
   },
   {
-   "songId": "reached-for-the-gun",
+   "songId": "chicago",
+   "section": "We Both Reached for the Gun",
    "part": "[대니]",
    "type": "대사",
    "mic": "",
@@ -2934,7 +2973,8 @@
    "setting": "사자\n총뻇으면서 숙임\n햇네 : 서서 고정"
   },
   {
-   "songId": "reached-for-the-gun",
+   "songId": "chicago",
+   "section": "We Both Reached for the Gun",
    "part": "[대니]",
    "type": "솔로",
    "mic": "",
@@ -2943,7 +2983,8 @@
    "setting": ""
   },
   {
-   "songId": "reached-for-the-gun",
+   "songId": "chicago",
+   "section": "We Both Reached for the Gun",
    "part": "[젠]",
    "type": "대사",
    "mic": "",
@@ -2952,7 +2993,8 @@
    "setting": ""
   },
   {
-   "songId": "reached-for-the-gun",
+   "songId": "chicago",
+   "section": "We Both Reached for the Gun",
    "part": "[합창]",
    "type": "합창",
    "mic": "",
@@ -2961,7 +3003,8 @@
    "setting": "숙이고 있다가"
   },
   {
-   "songId": "reached-for-the-gun",
+   "songId": "chicago",
+   "section": "We Both Reached for the Gun",
    "part": "[젠]",
    "type": "대사",
    "mic": "",
@@ -2970,7 +3013,8 @@
    "setting": "겁이남"
   },
   {
-   "songId": "reached-for-the-gun",
+   "songId": "chicago",
+   "section": "We Both Reached for the Gun",
    "part": "[합창]",
    "type": "합창",
    "mic": "",
@@ -2979,7 +3023,8 @@
    "setting": ""
   },
   {
-   "songId": "reached-for-the-gun",
+   "songId": "chicago",
+   "section": "We Both Reached for the Gun",
    "part": "[디나]",
    "type": "대사",
    "mic": "",
@@ -2988,7 +3033,8 @@
    "setting": ""
   },
   {
-   "songId": "reached-for-the-gun",
+   "songId": "chicago",
+   "section": "We Both Reached for the Gun",
    "part": "[젠 (합창)]",
    "type": "합창",
    "mic": "",
@@ -2997,7 +3043,8 @@
    "setting": "손 들고 왓다갓다"
   },
   {
-   "songId": "reached-for-the-gun",
+   "songId": "chicago",
+   "section": "We Both Reached for the Gun",
    "part": "[젠 (합창)]",
    "type": "합창",
    "mic": "",
@@ -3006,7 +3053,8 @@
    "setting": ""
   },
   {
-   "songId": "reached-for-the-gun",
+   "songId": "chicago",
+   "section": "We Both Reached for the Gun",
    "part": "[젠 (합창)]",
    "type": "합창",
    "mic": "",
@@ -3015,7 +3063,8 @@
    "setting": ""
   },
   {
-   "songId": "reached-for-the-gun",
+   "songId": "chicago",
+   "section": "We Both Reached for the Gun",
    "part": "[젠 (합창)]",
    "type": "합창",
    "mic": "",
@@ -3024,7 +3073,8 @@
    "setting": ""
   },
   {
-   "songId": "reached-for-the-gun",
+   "songId": "chicago",
+   "section": "We Both Reached for the Gun",
    "part": "젠",
    "type": "",
    "mic": "",
@@ -3033,7 +3083,8 @@
    "setting": "또뭐 에 안 밖\n이런반성 안\n하게됐죠 밖\n서로 : 센터"
   },
   {
-   "songId": "reached-for-the-gun",
+   "songId": "chicago",
+   "section": "We Both Reached for the Gun",
    "part": "[에디]",
    "type": "솔로",
    "mic": "",
@@ -3042,7 +3093,8 @@
    "setting": "섰다가 종종걸음 이동 - 팔 내리고\n앉음 손 - 손목 - 띵"
   },
   {
-   "songId": "reached-for-the-gun",
+   "songId": "chicago",
+   "section": "We Both Reached for the Gun",
    "part": "[에디·대니]",
    "type": "합창",
    "mic": "",
@@ -3051,7 +3103,8 @@
    "setting": ""
   },
   {
-   "songId": "reached-for-the-gun",
+   "songId": "chicago",
+   "section": "We Both Reached for the Gun",
    "part": "[에디·대니·젠]",
    "type": "합창",
    "mic": "",
@@ -3060,7 +3113,8 @@
    "setting": ""
   },
   {
-   "songId": "reached-for-the-gun",
+   "songId": "chicago",
+   "section": "We Both Reached for the Gun",
    "part": "[에디·대니·동주]",
    "type": "합창",
    "mic": "",
@@ -3069,7 +3123,8 @@
    "setting": ""
   },
   {
-   "songId": "reached-for-the-gun",
+   "songId": "chicago",
+   "section": "We Both Reached for the Gun",
    "part": "[대니 (합창)]",
    "type": "합창",
    "mic": "",
@@ -3078,7 +3133,8 @@
    "setting": ""
   },
   {
-   "songId": "reached-for-the-gun",
+   "songId": "chicago",
+   "section": "We Both Reached for the Gun",
    "part": "[대니 (합창)]",
    "type": "진행 큐",
    "mic": "",
@@ -3087,7 +3143,8 @@
    "setting": ""
   },
   {
-   "songId": "reached-for-the-gun",
+   "songId": "chicago",
+   "section": "We Both Reached for the Gun",
    "part": "[대니 (합창)]",
    "type": "합창",
    "mic": "",
@@ -3096,7 +3153,8 @@
    "setting": ""
   },
   {
-   "songId": "reached-for-the-gun",
+   "songId": "chicago",
+   "section": "We Both Reached for the Gun",
    "part": "[대니 (합창)]",
    "type": "진행 큐",
    "mic": "",
@@ -3105,7 +3163,8 @@
    "setting": ""
   },
   {
-   "songId": "reached-for-the-gun",
+   "songId": "chicago",
+   "section": "We Both Reached for the Gun",
    "part": "[대니 (합창)]",
    "type": "합창",
    "mic": "",
@@ -3114,7 +3173,8 @@
    "setting": ""
   },
   {
-   "songId": "reached-for-the-gun",
+   "songId": "chicago",
+   "section": "We Both Reached for the Gun",
    "part": "[대니 (합창)]",
    "type": "진행 큐",
    "mic": "",
@@ -3123,7 +3183,8 @@
    "setting": ""
   },
   {
-   "songId": "reached-for-the-gun",
+   "songId": "chicago",
+   "section": "We Both Reached for the Gun",
    "part": "[대니 (합창)]",
    "type": "합창",
    "mic": "",
@@ -3132,7 +3193,8 @@
    "setting": ""
   },
   {
-   "songId": "reached-for-the-gun",
+   "songId": "chicago",
+   "section": "We Both Reached for the Gun",
    "part": "[대니·동주·젠·캐시·아라레·에디 (합창)]",
    "type": "합창",
    "mic": "",
@@ -3141,7 +3203,8 @@
    "setting": ""
   },
   {
-   "songId": "roxie",
+   "songId": "chicago",
+   "section": "Roxie",
    "part": "[여림]",
    "type": "솔로",
    "mic": "",
@@ -3150,7 +3213,8 @@
    "setting": ""
   },
   {
-   "songId": "roxie",
+   "songId": "chicago",
+   "section": "Roxie",
    "part": "[여림]",
    "type": "솔로",
    "mic": "",
@@ -3159,7 +3223,8 @@
    "setting": ""
   },
   {
-   "songId": "roxie",
+   "songId": "chicago",
+   "section": "Roxie",
    "part": "[여림]",
    "type": "솔로",
    "mic": "",
@@ -3168,7 +3233,8 @@
    "setting": ""
   },
   {
-   "songId": "roxie",
+   "songId": "chicago",
+   "section": "Roxie",
    "part": "[여림]",
    "type": "솔로",
    "mic": "",
@@ -3177,7 +3243,8 @@
    "setting": ""
   },
   {
-   "songId": "roxie",
+   "songId": "chicago",
+   "section": "Roxie",
    "part": "[솜 (합창)]",
    "type": "합창",
    "mic": "",
@@ -3186,7 +3253,8 @@
    "setting": ""
   },
   {
-   "songId": "roxie",
+   "songId": "chicago",
+   "section": "Roxie",
    "part": "[솜 (합창)]",
    "type": "합창",
    "mic": "",
@@ -3195,7 +3263,8 @@
    "setting": ""
   },
   {
-   "songId": "roxie",
+   "songId": "chicago",
+   "section": "Roxie",
    "part": "[솜 (합창)]",
    "type": "합창",
    "mic": "",
@@ -3204,7 +3273,8 @@
    "setting": ""
   },
   {
-   "songId": "roxie",
+   "songId": "chicago",
+   "section": "Roxie",
    "part": "[솜 (합창)]",
    "type": "합창",
    "mic": "",
@@ -3213,7 +3283,8 @@
    "setting": ""
   },
   {
-   "songId": "roxie",
+   "songId": "chicago",
+   "section": "Roxie",
    "part": "[솜 (합창)]",
    "type": "합창",
    "mic": "",
@@ -3222,7 +3293,8 @@
    "setting": ""
   },
   {
-   "songId": "roxie",
+   "songId": "chicago",
+   "section": "Roxie",
    "part": "[솜 (합창)]",
    "type": "합창",
    "mic": "",
@@ -3231,7 +3303,8 @@
    "setting": ""
   },
   {
-   "songId": "roxie",
+   "songId": "chicago",
+   "section": "Roxie",
    "part": "[솜 (합창)]",
    "type": "합창",
    "mic": "",
@@ -3240,7 +3313,8 @@
    "setting": ""
   },
   {
-   "songId": "roxie",
+   "songId": "chicago",
+   "section": "Roxie",
    "part": "[솜 (합창)]",
    "type": "합창",
    "mic": "",
@@ -3249,7 +3323,8 @@
    "setting": ""
   },
   {
-   "songId": "roxie",
+   "songId": "chicago",
+   "section": "Roxie",
    "part": "[솜 (합창)]",
    "type": "합창",
    "mic": "",
@@ -3258,7 +3333,8 @@
    "setting": ""
   },
   {
-   "songId": "roxie",
+   "songId": "chicago",
+   "section": "Roxie",
    "part": "[슈 (합창)]",
    "type": "합창",
    "mic": "",
@@ -3267,7 +3343,8 @@
    "setting": ""
   },
   {
-   "songId": "roxie",
+   "songId": "chicago",
+   "section": "Roxie",
    "part": "[슈 (합창)]",
    "type": "합창",
    "mic": "",
@@ -3276,7 +3353,8 @@
    "setting": ""
   },
   {
-   "songId": "roxie",
+   "songId": "chicago",
+   "section": "Roxie",
    "part": "[슈 (합창)]",
    "type": "합창",
    "mic": "",
@@ -3285,7 +3363,8 @@
    "setting": ""
   },
   {
-   "songId": "roxie",
+   "songId": "chicago",
+   "section": "Roxie",
    "part": "[슈 (합창)]",
    "type": "합창",
    "mic": "",
@@ -3307,7 +3386,7 @@
    "path": "assets/all-that-jazz/mr.mp3",
    "size": "1.9 MB",
    "kind": "audio",
-   "songId": "all-that-jazz",
+   "songId": "chicago",
    "group": "audio"
   },
   {
@@ -3315,7 +3394,7 @@
    "path": "assets/cell-block-tango/mr.mp3",
    "size": "1.7 MB",
    "kind": "audio",
-   "songId": "cell-block-tango",
+   "songId": "chicago",
    "group": "audio"
   },
   {
@@ -3323,7 +3402,7 @@
    "path": "assets/roxie/mr.mp3",
    "size": "2.2 MB",
    "kind": "audio",
-   "songId": "roxie",
+   "songId": "chicago",
    "group": "audio"
   },
   {
